@@ -1,6 +1,8 @@
 # cssutilities
 > cssutilities is lightweight CSS layout utilities ~ 1KB
 
+> easy to use & short naming convention
+
 # How to use
 
 
