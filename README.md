@@ -1,2 +1,2 @@
 # cssutilities
- CSS layout utilities
+lightweight CSS layout utilities
