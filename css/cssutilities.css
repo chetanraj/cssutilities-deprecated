@@ -1,0 +1,181 @@
+/* ==========================================================================
+   
+	 CSS Utilities
+	 v1.0.0
+	 Source: https://github.com/chetanraj/cssutilities
+	 
+   ========================================================================== */
+
+
+/* CSS Margin
+   ========================================================================== */
+
+.m0 {
+	margin: 0;
+}
+.mt0 {
+	margin-top: 0;
+}
+.mr0 {
+	margin-right: 0;
+}
+.mb0 {
+	margin-bottom: 0;
+}
+.ml0 {
+	margin-left: 0;
+}
+.m1x {
+	margin: 1px;
+}
+.mt1x {
+	margin-top: 1px;
+}
+.mr1x {
+	margin-right: 1px;
+}
+.mb1x {
+	margin-bottom: 1px;
+}
+.ml1x {
+	margin-left: 1px;
+}
+.m2x {
+	margin: 2px;
+}
+.mt2x {
+	margin-top: 2px;
+}
+.mr2x {
+	margin-right: 2px;
+}
+.mb2x {
+	margin-bottom: 2px;
+}
+.ml2x {
+	margin-left: 2px;
+}
+.m3x {
+	margin: 2px;
+}
+.mt3x {
+	margin-top: 3px;
+}
+.mr3x {
+	margin-right: 3px;
+}
+.mb3x {
+	margin-bottom: 3px;
+}
+.ml3x {
+	margin-left: 3px;
+}
+.m4x {
+	margin: 4px;
+}
+.mt4x {
+	margin-top: 4px;
+}
+.mr4x {
+	margin-right: 4px;
+}
+.mb4x {
+	margin-bottom: 4px;
+}
+.ml4x {
+	margin-left: 4px;
+}
+.m5x {
+	margin: 5px;
+}
+.mt5x {
+	margin-top: 5px;
+}
+.mr5x {
+	margin-right: 5px;
+}
+.mb5x {
+	margin-bottom: 5px;
+}
+.ml5x {
+	margin-left: 5px;
+}
+
+/* CSS Padding
+   ========================================================================== */
+
+.p0 {
+	padding: 0;
+}
+.pt0 {
+	padding-top: 0;
+}
+.pr0 {
+	padding-right: 0;
+}
+.pb0 {
+	padding-bottom: 0;
+}
+.pl0 {
+	padding-left: 0;
+}
+.p1x {
+	padding: 1px;
+}
+.pt1x {
+	padding-top: 1px;
+}
+.pr1x {
+	padding-right: 1px;
+}
+.pb1x {
+	padding-bottom: 1px;
+}
+.pl1x {
+	padding-left: 1px;
+}
+.p3x {
+	padding: 3px;
+}
+.pt3x {
+	padding-top: 3px;
+}
+.pr3x {
+	padding-right: 3px;
+}
+.pb3x {
+	padding-bottom: 3px;
+}
+.pl3x {
+	padding-left: 3px;
+}
+.p4x {
+	padding: 4px;
+}
+.pt4x {
+	padding-top: 4px;
+}
+.pr4x {
+	padding-right: 4px;
+}
+.pb4x {
+	padding-bottom: 4px;
+}
+.pl4x {
+	padding-left: 4px;
+}
+.p5x {
+	padding: 5px;
+}
+.pt5x {
+	padding-top: 5px;
+}
+.pr5x {
+	padding-right: 5px;
+}
+.pb5x {
+	padding-bottom: 5px;
+}
+.pl5x {
+	padding-left: 5px;
+}
