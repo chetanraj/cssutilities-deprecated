@@ -1,2 +1,2 @@
 # cssutilities
-lightweight CSS layout utilities
+lightweight(1KB) CSS layout utilities
