@@ -2,9 +2,9 @@
 
 cssutilities is lightweight CSS layout utilities ~ 1KB
 
-> easy to use & short naming convention
+| easy to use & short naming convention
 
----
+[![npm version](https://badge.fury.io/js/cssutilities.svg)](https://badge.fury.io/js/cssutilities) [![GitHub version](https://badge.fury.io/gh/chetanraj%2Fcssutilities.svg)](https://badge.fury.io/gh/chetanraj%2Fcssutilities)
 
 ## Quick Install
 ```
