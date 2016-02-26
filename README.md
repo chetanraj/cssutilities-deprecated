@@ -1,7 +1,19 @@
 # cssutilities
-> lightweight CSS layout utilities ~ 1KB
+> cssutilities is lightweight CSS layout utilities ~ 1KB
 
 # How to use
+
+
+####  For example
+Use **m0** class for margin:0; | Use **p0** class for padding:0;
+
+Use **pt0x** class for padding-top: 0px;  
+
+Use **mr1x** class for margin-right: 1px;
+
+Use **pb2x** class for padding-bottom: 2px;
+
+Use **ml3x** class for margin-left: 3px;
 
 #### STYLES
 
@@ -22,14 +34,3 @@
 .pt5x {
 	padding-top: 5px;
 }
-
-####  For example
-Use **m0** class for margin:0; | Use **p0** class for padding:0;
-
-Use **pt0x** class for padding-top: 0px;  
-
-Use **mr1x** class for margin-right: 1px;
-
-Use **pb2x** class for padding-bottom: 2px;
-
-Use **ml3x** class for margin-left: 3px;
