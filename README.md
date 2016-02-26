@@ -1,7 +1,14 @@
 # cssutilities
-> cssutilities is lightweight CSS layout utilities ~ 1KB
+cssutilities is lightweight CSS layout utilities ~ 1KB
 
-> easy to use & short naming convention
+easy to use & short naming convention
+
+---
+
+## Download
+```
+npm install -g cssutilities
+```
 
 # How to use
 
