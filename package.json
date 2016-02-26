@@ -1,0 +1,32 @@
+{
+  "name": "cssutilities",
+  "version": "1.0.0",
+  "description": "CSS layout utilities",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-clean-css": "^2.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "gulp-w3c-css": "^0.1.2",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetanraj/cssutilities.git"
+  },
+  "keywords": [
+    "css",
+    "utilities",
+    "cssutilities"
+  ],
+  "author": "Chetan Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chetanraj/cssutilities/issues"
+  },
+  "homepage": "https://github.com/chetanraj/cssutilities#readme"
+}
