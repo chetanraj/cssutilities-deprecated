@@ -1,40 +1,38 @@
 # cssutilities
+
 cssutilities is lightweight CSS layout utilities ~ 1KB
 
-easy to use & short naming convention
+> easy to use & short naming convention
 
 ---
 
-## Download
+## Quick Install
 ```
 npm install -g cssutilities
 ```
 
 # How to use
 
+Add the downloaded css file path to the <head> of your document:
 
-####  For example
-Use **m0** class for margin:0; | Use **p0** class for padding:0;
+```
+<link rel="stylesheet" href="path/to/cssutilities.min.css">
+```
 
-Use **pt0x** class for padding-top: 0px;  
+and just use the short naming conventions, voila it's so easy.
 
-Use **mr1x** class for margin-right: 1px;
+---
 
-Use **pb2x** class for padding-bottom: 2px;
+#### SAMPLE STYLES
 
-Use **ml3x** class for margin-left: 3px;
-
-#### STYLES
-
+```
 .m0 {
 	margin: 0;
 }
 
-
 .m4x {
 	margin: 4px;
 }
-
 
 .p0 {
 	padding: 0;
@@ -43,3 +41,11 @@ Use **ml3x** class for margin-left: 3px;
 .pt5x {
 	padding-top: 5px;
 }
+```
+
+## Compatibility
+
+Currently, cssutilities supports Google Chrome (tested v48+), Mozilla Firefox (tested 44+), and Internet Explorer (tested 11+). Mobile browsers are not currently tested but they may work.
+
+## License
+[MIT License](LICENSE.md) 
