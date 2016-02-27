@@ -1,5 +1,7 @@
 # cssutilities
 
+[![Join the chat at https://gitter.im/chetanraj/cssutilities](https://badges.gitter.im/chetanraj/cssutilities.svg)](https://gitter.im/chetanraj/cssutilities?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 cssutilities is lightweight CSS layout utilities ~ 1KB
 
 | easy to use & short naming convention
