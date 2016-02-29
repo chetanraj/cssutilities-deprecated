@@ -41,6 +41,18 @@ and just use the short naming conventions, voila it's so easy.
 .pt5x {
 	padding-top: 5px;
 }
+
+.di {
+	display: inline;
+}
+
+.fl {
+	float: left;
+}
+
+.cb {
+  clear: both;
+}
 ```
 
 ## Compatibility
