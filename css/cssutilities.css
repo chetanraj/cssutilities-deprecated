@@ -179,3 +179,34 @@
 .pl5x {
 	padding-left: 5px;
 }
+
+/* More Utilities
+   ========================================================================== */
+
+.db {
+	display: block;
+}
+.dib {
+	display: inline-block;
+}
+.di {
+	display: inline;
+}
+.dt {
+	display: table;
+}
+.dtc {
+	display: table-cell;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.oh {
+	overflow: hidden;
+}
+.cb, .clear {
+  clear: both;
+}
