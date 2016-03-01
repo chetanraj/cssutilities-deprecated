@@ -61,3 +61,6 @@ Currently, cssutilities supports Google Chrome (tested v48+), Mozilla Firefox (t
 
 ## License
 [MIT License](LICENSE.md) 
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chetanraj/cssutilities/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
