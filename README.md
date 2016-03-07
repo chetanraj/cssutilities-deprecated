@@ -12,7 +12,7 @@ Copy this below line of code and paste it in the head of the html file(s) you wa
 
 
 ```
-	<link rel="stylesheet" href="https://npmcdn.com/cssutilities@1.0.2/css/cssutilities.min.css">
+<link rel="stylesheet" href="https://npmcdn.com/cssutilities@1.0.2/css/cssutilities.min.css">
 ```
 
 ## Or
