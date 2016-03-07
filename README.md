@@ -6,12 +6,23 @@ cssutilities is lightweight CSS layout utilities ~ 1KB
 
 [![npm version](https://badge.fury.io/js/cssutilities.svg)](https://badge.fury.io/js/cssutilities) [![GitHub version](https://badge.fury.io/gh/chetanraj%2Fcssutilities.svg)](https://badge.fury.io/gh/chetanraj%2Fcssutilities) [![Code Climate](https://codeclimate.com/github/chetanraj/cssutilities/badges/gpa.svg)](https://codeclimate.com/github/chetanraj/cssutilities) [![Join the chat at https://gitter.im/chetanraj/cssutilities](https://badges.gitter.im/chetanraj/cssutilities.svg)](https://gitter.im/chetanraj/cssutilities?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## Using CDN
+
+Copy this below line of code and paste it in the head of the html file(s) you want to include cssutilities in.
+
+
+```
+	<link rel="stylesheet" href="https://npmcdn.com/cssutilities@1.0.2/css/cssutilities.min.css">
+```
+
+## Or
+
 ## Quick Install
 ```
 npm install -g cssutilities
 ```
 
-# How to use
+### How to use
 
 Add the downloaded css file path to the <head> of your document:
 
