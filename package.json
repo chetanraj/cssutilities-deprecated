@@ -1,16 +1,13 @@
 {
   "name": "cssutilities",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "CSS layout utilities",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
-    "analytics-node": "^2.0.1",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.2",
-    "gulp-rename": "^1.2.2",
-    "gulp-util": "^3.0.7",
-    "gulp-w3c-css": "^0.1.2"
+    "gulp-rename": "^1.2.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
