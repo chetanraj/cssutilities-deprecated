@@ -4,7 +4,7 @@ cssutilities is lightweight CSS layout utilities ~ 1KB
 
 | easy to use & short naming convention
 
-[![npm version](https://badge.fury.io/js/cssutilities.svg)](https://badge.fury.io/js/cssutilities) [![GitHub version](https://badge.fury.io/gh/chetanraj%2Fcssutilities.svg)](https://badge.fury.io/gh/chetanraj%2Fcssutilities) [![Join the chat at https://gitter.im/chetanraj/cssutilities](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/chetanraj/cssutilities?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/chetanraj/cssutilities/blob/master/LICENSE.md) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/cssutilities)
+[![npm version](https://badge.fury.io/js/cssutilities.svg)](https://badge.fury.io/js/cssutilities) [![Bower version](https://badge.fury.io/bo/cssutilities.svg)](https://badge.fury.io/bo/cssutilities) [![GitHub version](https://badge.fury.io/gh/chetanraj%2Fcssutilities.svg)](https://badge.fury.io/gh/chetanraj%2Fcssutilities) [![Join the chat at https://gitter.im/chetanraj/cssutilities](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/chetanraj/cssutilities?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/chetanraj/cssutilities/blob/master/LICENSE.md) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/cssutilities)
 
 [![NPM](https://nodei.co/npm/cssutilities.png)](https://nodei.co/npm/cssutilities/)
 
