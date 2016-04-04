@@ -56,7 +56,7 @@
 	margin-left: 2px;
 }
 .m3x {
-	margin: 2px;
+	margin: 3px;
 }
 .mt3x {
 	margin-top: 3px;
@@ -133,6 +133,21 @@
 }
 .pl1x {
 	padding-left: 1px;
+}
+.p2x {
+	padding: 2px;
+}
+.pt2x {
+	padding-top: 2px;
+}
+.pr2x {
+	padding-right: 2px;
+}
+.pb2x {
+	padding-bottom: 2px;
+}
+.pl2x {
+	padding-left: 2px;
 }
 .p3x {
 	padding: 3px;
