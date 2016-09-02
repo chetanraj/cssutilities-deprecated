@@ -14,7 +14,7 @@ cssutilities is lightweight CSS layout utilities ~ 1KB
 Copy this below line of code and paste it in the head of the html file(s) you want to include cssutilities in.
 
 ```
-<link rel="stylesheet" href="https://npmcdn.com/cssutilities@1.1.4/css/cssutilities.min.css">
+<link rel="stylesheet" href="https://unpkg.com/cssutilities@1.1.4/css/cssutilities.min.css">
 ```
 
 ## Quick Install
